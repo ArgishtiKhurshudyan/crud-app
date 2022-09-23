@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="465d9ad6-8a87-498b-a89f-1232502454b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/components/color/Color.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/components/color/Color.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/components/product/Product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/components/product/Product.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/components/register/SignIn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/components/register/SignIn.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/redux/color/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/redux/color/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/redux/color/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/redux/color/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/redux/color/saga.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/redux/color/saga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/redux/product/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/redux/product/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/redux/product/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/redux/product/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/redux/product/saga.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/redux/product/saga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/redux/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/redux/rootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-reg-app/src/redux/user/saga.js" beforeDir="false" afterPath="$PROJECT_DIR$/log-reg-app/src/redux/user/saga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/color.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/color.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/verifyToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/verifyToken.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/log-reg-app" />
+  </component>
+  <component name="ProjectId" id="2FAuYCDLUsuMwSIm49QatJlN2w4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="465d9ad6-8a87-498b-a89f-1232502454b0" name="Changes" comment="" />
+      <created>1663947254875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663947254875</updated>
+      <workItem from="1663947256106" duration="10000" />
+    </task>
+    <servers />
+  </component>
+</project>
